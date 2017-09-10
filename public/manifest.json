@@ -1,0 +1,9 @@
+{
+  "short_name": "Sleep Time Finder",
+  "name": "Sleep Time Finder",
+  "icons": [],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
